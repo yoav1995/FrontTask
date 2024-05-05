@@ -1,6 +1,6 @@
 //import logo from './logo.svg';
 import './App.css';
-import React, { useState, useEffect } from 'react';
+import React, { useState} from 'react';
 import AudioStripe from './ChannelStripe.js';
 import audio1 from './Loop files/_tambourine_shake_higher.mp3';
 import audio2 from './Loop files/ALL TRACK.mp3';
